@@ -1,4 +1,6 @@
 ## Hi there 👋
+🚧🚧🚧
+[Portofolio is under construction]👷🏗️
 
 <p align="left">
 <a href="https://github.com/penuliscode">
