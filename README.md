@@ -3,7 +3,7 @@
 [Portofolio is under construction]👷🏗️
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/WigunTedja">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WigunTedja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WigunTedja&layout=compact&theme=algolia"/>
 </a>
