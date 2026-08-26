@@ -1,6 +1,9 @@
 ## Hi there 👋
-🚧🚧🚧
-[Portofolio is under construction]👷🏗️
+
+- 🔭 I’m currently working on Kedas Jagat
+- 🌱 I’m currently learning Game Programming and fullstack development
+
+- [LinkedIn](https://www.linkedin.com/in/gus-tedja-47a896252/)
 
 <p align="left">
 <a href="https://github.com/WigunTedja">
